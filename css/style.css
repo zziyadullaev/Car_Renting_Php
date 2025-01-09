@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #222;
+    color: #fff;
+  }
+  header, nav, footer {
+    background: #333;
+    padding: 1rem;
+  }
+  a, a:visited {
+    color: #ff0;
+    text-decoration: none;
+  }
+  .container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  .card {
+    background: #444;
+    padding: 1rem;
+    margin: 1rem 0;
+  }
+  button {
+    background: #ff0;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  input, select {
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .error {
+    color: #f44;
+  }
+  .success {
+    color: #4f4;
+  }
+  .flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .flex .card {
+    width: 300px;
+    margin: 1rem;
+  }
+  

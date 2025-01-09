@@ -1,0 +1,35 @@
+{
+    "677f125883e38": {
+        "id": "677f125883e38",
+        "brand": "Honda",
+        "model": "Civic",
+        "year": 2019,
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "passengers": 5,
+        "daily_price_huf": 16250,
+        "image": "https:\/\/media.ed.edmunds-media.com\/honda\/civic\/2019\/oem\/2019_honda_civic_sedan_touring_fq_oem_1_815.jpg"
+    },
+    "677f125883e3f": {
+        "id": "677f125883e3f",
+        "brand": "Nissan",
+        "model": "Altima",
+        "year": 2016,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 5,
+        "daily_price_huf": 14400,
+        "image": "https:\/\/media.ed.edmunds-media.com\/nissan\/altima\/2016\/oem\/2016_nissan_altima_sedan_25-sr_fq_oem_1_815.jpg"
+    },
+    "677f125883e41": {
+        "id": "677f125883e41",
+        "brand": "Skoda",
+        "model": "Octavia",
+        "year": 2023,
+        "transmission": "Automatic",
+        "fuel_type": "Disez",
+        "passengers": 5,
+        "daily_price_huf": 13102,
+        "image": "https:\/\/th.bing.com\/th\/id\/R.f52fc089f1572147511948384b9a557d?rik=JBbe4v3%2f4MiOFw&riu=http%3a%2f%2fwww.billigstautos.com%2fwp-content%2fuploads%2f2013%2f06%2fskoda_octavia_rs___large.jpg&ehk=3V3Six8lUI7e1x%2bw4r9kgwsxVOPE4eBQxpglAfH%2bz3A%3d&risl=&pid=ImgRaw&r=0"
+    }
+}
